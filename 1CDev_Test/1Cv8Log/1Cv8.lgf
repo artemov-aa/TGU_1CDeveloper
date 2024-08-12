@@ -34,4 +34,7 @@
 {5,bb8ee974-f0d0-43e1-859e-4715b5ffd9fa,"Документ.ПродажаТоваров",7},
 {4,"_$InfoBase$_.DBConfigUpdateError",14},
 {4,"_$InfoBase$_.DumpStart",15},
-{4,"_$InfoBase$_.DumpFinish",16}
+{4,"_$InfoBase$_.DumpFinish",16},
+{2,"office-PC",2},
+{13,2,1},
+{4,"_$PerformError$_",17}
