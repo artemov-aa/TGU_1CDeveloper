@@ -18,4 +18,6 @@ c2461ee8-8918-4472-bf15-2ec11e88c5f5
 {4,"_$InfoBase$_.DBConfigUpdate",9},
 {2,"office-PC",2},
 {13,2,1},
-{4,"_$PerformError$_",10}
+{4,"_$PerformError$_",10},
+{4,"_$Job$_.Start",11},
+{4,"_$Job$_.Finish",12}
