@@ -40,4 +40,5 @@
 {4,"_$PerformError$_",17},
 {4,"_$Transaction$_.Rollback",18},
 {4,"_$Job$_.Start",19},
-{4,"_$Job$_.Finish",20}
+{4,"_$Job$_.Finish",20},
+{5,867e0c2b-4973-43c5-8a03-e8009469ef9d,"Документ.ЗаказыКлиентов",8}
