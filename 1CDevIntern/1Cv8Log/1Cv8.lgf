@@ -34,4 +34,5 @@ cb0e0bdd-3a50-41ce-86e7-32986f6a540a
 {13,2,1},
 {4,"_$PerformError$_",14},
 {4,"_$InfoBase$_.DBConfigUpdateError",15},
-{4,"_$Data$_.Unpost",16}
+{4,"_$Data$_.Unpost",16},
+{4,"_$Transaction$_.Rollback",17}
