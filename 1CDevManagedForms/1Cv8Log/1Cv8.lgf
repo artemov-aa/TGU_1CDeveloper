@@ -19,4 +19,10 @@ fec817ef-9ae6-40b4-bd22-a2c248ddb476
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.Update",10},
 {5,eb95541d-d84d-4820-8608-ea697a69c473,"Справочник.Магазины",1},
-{4,"_$Transaction$_.Commit",11}
+{4,"_$Transaction$_.Commit",11},
+{4,"_$PerformError$_",12},
+{3,"BackgroundJob",3},
+{5,28257577-924d-4340-99fe-1382458cf29c,"Справочник.Продукты",2},
+{4,"_$Data$_.Delete",13},
+{5,d3a7f443-3dbc-48f5-8c9f-314cbe4c4396,"Документ.Покупка",3},
+{4,"_$Data$_.Post",14}
