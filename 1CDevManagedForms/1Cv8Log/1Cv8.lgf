@@ -28,4 +28,7 @@ fec817ef-9ae6-40b4-bd22-a2c248ddb476
 {4,"_$Data$_.Post",14},
 {4,"_$Data$_.New",15},
 {5,988aeaa2-a8fe-4a9a-be63-5a8a1ede2fd5,"Документ.ПриготовлениеПродуктов",4},
-{4,"_$Transaction$_.Rollback",16}
+{4,"_$Transaction$_.Rollback",16},
+{5,c286c825-fb9f-46bf-a6af-6e4495d4200e,"Документ.Потребление",5},
+{4,"_$InfoBase$_.DumpStart",17},
+{4,"_$InfoBase$_.DumpFinish",18}
