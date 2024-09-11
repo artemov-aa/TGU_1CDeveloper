@@ -14,4 +14,6 @@ c2461ee8-8918-4472-bf15-2ec11e88c5f5
 {3,"BackgroundJob",3},
 {4,"_$InfoBase$_.ConfigUpdate",6},
 {4,"_$InfoBase$_.DBConfigUpdateStart",7},
-{4,"_$InfoBase$_.DBConfigUpdate",8}
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{4,"_$PerformError$_",9},
+{4,"_$InfoBase$_.DBConfigUpdateError",10}
