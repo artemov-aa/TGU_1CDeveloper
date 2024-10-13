@@ -49,4 +49,13 @@
 {4,"_$InfoBase$_.DBConfigUpdateError",17},
 {4,"_$Data$_.Update",18},
 {5,0e642af6-5aeb-40dd-b4a7-b57495cc2a5b,"Документ.Заказы",13},
-{5,ca10a8c7-39e7-43f0-82c8-acc0998548e1,"Документ.Договоры",14}
+{5,ca10a8c7-39e7-43f0-82c8-acc0998548e1,"Документ.Договоры",14},
+{4,"_$Data$_.Unpost",19},
+{4,"_$User$_.New",20},
+{4,"_$Session$_.AuthenticationError",21},
+{1,f83c7788-e8cd-4ba2-bc1d-5cbdffb23440,"Администратор",2},
+{13,1,2},
+{1,106de64c-96d2-4eac-8e69-c857637f6fee,"Менеджер",3},
+{13,1,3},
+{4,"_$InfoBase$_.DumpStart",22},
+{4,"_$InfoBase$_.DumpFinish",23}
